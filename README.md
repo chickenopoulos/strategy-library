@@ -14,6 +14,12 @@ Source : https://www.amazon.in/Buy-Fear-Sell-Greed-Behavioral/dp/0578206501
 
 ## Trend Following by Carlo Zarattini (Trend-Following by Carlo Zarattini.ipynb)
 
-This notebook contains the Python implementation of the rules of the Trend Following strategy by Carlo Zarattini et al.
+This notebook contains the Python implementation of the rules of the Trend Following strategy by Carlo Zarattini et al., along with a few extra personal ideas
 
 Source : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084316
+
+## Momentum RSI in Crypto by Pedma, Trading Research Hub (Substack)
+
+Contains the implementation of the momentum RSI strategy proposed in the substack article and evaluates the signal strength and strategy performance.
+
+Source : https://tradingresearchub.com/p/flipping-the-rsi-script-when-overbought?lli=1

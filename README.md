@@ -10,6 +10,8 @@ This notebook contains experiments using decomposed series from prices (or retur
 
 This is a notebook that implements the strategies described in the book "Buy The Fear, Sell The Greed" by Larry Connors.
 
+![Alt text](figures/rsi_powerzones.png)
+
 Source : https://www.amazon.in/Buy-Fear-Sell-Greed-Behavioral/dp/0578206501
 
 ## Trend Following by Carlo Zarattini (Trend-Following by Carlo Zarattini.ipynb)
@@ -23,3 +25,8 @@ Source : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084316
 Contains the implementation of the momentum RSI strategy proposed in the substack article and evaluates the signal strength and strategy performance.
 
 Source : https://tradingresearchub.com/p/flipping-the-rsi-script-when-overbought?lli=1
+
+## Simple Pairs Trading
+
+As the title says, this is a simple pairs trading notebook. I load up the data, pick a high correlated pair, then trade the z-score of its spread long/short. Although simple, 
+it appears to be high effective, thus I will work on the proposed next steps (see at the bottom of the notebook) when pairs trading comes up again as a theme in my backlog (soon).

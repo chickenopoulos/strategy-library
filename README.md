@@ -24,6 +24,8 @@ Source : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084316
 
 Contains the implementation of the momentum RSI strategy proposed in the substack article and evaluates the signal strength and strategy performance.
 
+![Alt text](figures/momentum_rsi_crypto_pedma.png)
+
 Source : https://tradingresearchub.com/p/flipping-the-rsi-script-when-overbought?lli=1
 
 ## Simple Pairs Trading

@@ -8,14 +8,15 @@ This is a notebook that implements the strategies described in the book "Buy The
 
 ![Alt text](figures/rsi_powerzones.png)
 
-Notebook : [Buy The Fear](https://github.com/chickenopoulos/strategy-library/blob/master/Buy%20The%20Fear.ipynb)
+Notebook : [Buy The Fear](https://github.com/chickenopoulos/strategy-library/blob/master/Buy%20The%20Fear.ipynb) \n
+
 Source : https://www.amazon.in/Buy-Fear-Sell-Greed-Behavioral/dp/0578206501
 
 ## Trend Following by Carlo Zarattini
 
 This notebook contains the Python implementation of the rules of the Trend Following strategy by Carlo Zarattini et al., along with a few extra personal ideas
 
-Notebook : [Trend-Following by Carlo Zarattini](https://github.com/chickenopoulos/strategy-library/blob/master/Trend-Following%20by%20Carlo%20Zarattini.ipynb)
+Notebook : [Trend-Following by Carlo Zarattini](https://github.com/chickenopoulos/strategy-library/blob/master/Trend-Following%20by%20Carlo%20Zarattini.ipynb) \n
 Source : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084316
 
 ## Momentum RSI in Crypto by Pedma, Trading Research Hub (Substack)

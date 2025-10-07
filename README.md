@@ -32,3 +32,12 @@ Source : https://tradingresearchub.com/p/flipping-the-rsi-script-when-overbought
 
 As the title says, this is a simple pairs trading notebook. I load up the data, pick a high correlated pair, then trade the z-score of its spread long/short. Although simple, 
 it appears to be high effective, thus I will work on the proposed next steps (see at the bottom of the notebook) when pairs trading comes up again as a theme in my backlog (soon).
+
+![Alt text](figures/simple_pairs_trading_ltc_eth.png)
+
+## Regime-based Breakout in Crypto
+
+A simple breakout strategy using the donchian upper channels, with a twist - we only enter if the asset is having a favorable 14-day beta to the market (total crypto mcap). We measure
+the market's ROC over the last 14 days, and we compare the ROC's sign with the asset's beta sign. If the are aligned (+/+ or -/-) then the token is moving towards a favorable direction.
+
+![Alt text](figures/regime_based_breakout_in_crypto.png)

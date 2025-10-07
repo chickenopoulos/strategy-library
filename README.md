@@ -8,7 +8,7 @@ This is a notebook that implements the strategies described in the book "Buy The
 
 ![Alt text](figures/rsi_powerzones.png)
 
-Notebook : [Buy The Fear](https://github.com/chickenopoulos/strategy-library/blob/master/Buy%20The%20Fear.ipynb) \n
+Notebook : [Buy The Fear](https://github.com/chickenopoulos/strategy-library/blob/master/Buy%20The%20Fear.ipynb)
 
 Source : https://www.amazon.in/Buy-Fear-Sell-Greed-Behavioral/dp/0578206501
 
@@ -16,7 +16,8 @@ Source : https://www.amazon.in/Buy-Fear-Sell-Greed-Behavioral/dp/0578206501
 
 This notebook contains the Python implementation of the rules of the Trend Following strategy by Carlo Zarattini et al., along with a few extra personal ideas
 
-Notebook : [Trend-Following by Carlo Zarattini](https://github.com/chickenopoulos/strategy-library/blob/master/Trend-Following%20by%20Carlo%20Zarattini.ipynb) \n
+Notebook : [Trend-Following by Carlo Zarattini](https://github.com/chickenopoulos/strategy-library/blob/master/Trend-Following%20by%20Carlo%20Zarattini.ipynb)
+
 Source : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084316
 
 ## Momentum RSI in Crypto by Pedma, Trading Research Hub (Substack)
@@ -26,6 +27,7 @@ Contains the implementation of the momentum RSI strategy proposed in the substac
 ![Alt text](figures/momentum_rsi_crypto_pedma.png)
 
 Notebook : [Momentum RSI in Crypto](https://github.com/chickenopoulos/strategy-library/blob/master/Momentum%20RSI%20in%20Crypto%20-%20Trading%20Research%20Hub%2C%20Substack.ipynb)
+
 Source : https://tradingresearchub.com/p/flipping-the-rsi-script-when-overbought?lli=1
 
 ## Simple Pairs Trading

@@ -44,7 +44,7 @@ it appears to be high effective, thus I will work on the proposed next steps (se
 
 ![Alt text](figures/simple_pairs_trading_ltc_eth.png)
 
-Notebook : [Buy the Fear](https://github.com/chickenopoulos/strategy-library/blob/master/Buy%20The%20Fear.ipynb)
+Notebook : [Simple Pairs Trading](https://github.com/chickenopoulos/strategy-library/blob/master/Simple%20Pairs%20Trading.ipynb)
 
 ## Regime-based Breakout in Crypto
 

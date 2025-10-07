@@ -16,9 +16,9 @@ Source : https://www.amazon.in/Buy-Fear-Sell-Greed-Behavioral/dp/0578206501
 
 This notebook contains the Python implementation of the rules of the Trend Following strategy by Carlo Zarattini et al., along with a few extra personal ideas
 
-Notebook : [Trend-Following by Carlo Zarattini](https://github.com/chickenopoulos/strategy-library/blob/master/Trend-Following%20by%20Carlo%20Zarattini.ipynb)
-
 ![Alt text](figures/donchian_channels_by_carlo_zarattini.png)
+
+Notebook : [Trend-Following by Carlo Zarattini](https://github.com/chickenopoulos/strategy-library/blob/master/Trend-Following%20by%20Carlo%20Zarattini.ipynb)
 
 Source : https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5084316
 

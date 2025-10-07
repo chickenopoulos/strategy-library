@@ -1,6 +1,11 @@
 ## Introduction
 
-This repository contains a library of strategies that I have developed over the years. This README is a reference point for those that are interesting.
+This repository is a curated collection of quantitative trading strategies implemented in Python. Each notebook demonstrates a complete strategy — from data loading and signal generation to backtesting and performance evaluation — inspired by academic research, trading literature, and practitioner insights.
+
+The goal of this library is to provide:
+- Reproducible strategy implementations
+- Clear, documented notebooks for learning and experimentation
+- Foundations for extension, so you can adapt them to your own research and trading ideas
 
 ## Buy The Fear, Sell The Greed 
 

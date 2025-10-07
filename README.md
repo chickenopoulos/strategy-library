@@ -54,3 +54,11 @@ the market's ROC over the last 14 days, and we compare the ROC's sign with the a
 ![Alt text](figures/regime_based_breakout_in_crypto.png)
 
 Notebook : [Regime-based Breakout in Crypto](https://github.com/chickenopoulos/strategy-library/blob/master/Regime-based%20Breakout%20in%20Crypto.ipynb)
+
+## Donchian Breakout on Bitcoin
+
+Yet again a simple breakout system, tested on Bitcoin. Its performance and simplicity are amazing. Tested over other tokens, incl. ETH and SOL, and they all perform incredibly well, outperforming buy and hold consistently. This notebook serves as a solid foundation towards to construction of a portfolio of breakout systems in crypto (to be explored).
+
+![Alt text](figures/donchian_breakout_on_bitcoin.png)
+
+Notebook : [Donchian Breakout on Bitcoin](https://github.com/chickenopoulos/strategy-library/blob/master/Donchian%20Breakout%20on%20Bitcoin.ipynb)
